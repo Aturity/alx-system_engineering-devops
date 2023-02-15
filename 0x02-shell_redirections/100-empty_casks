@@ -1,3 +1,2 @@
-
 #!/bin/bash
-fnd . -empty | rev | cut -d '/' -f 1 | rev 
+fnd . -empty | rev | cut -d '/' -f 1 | rev
